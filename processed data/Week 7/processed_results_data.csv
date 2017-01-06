@@ -1,0 +1,93 @@
+week,home,home_pts,away,away_pts
+1,Denver Broncos,21,Carolina Panthers,20
+1,Jacksonville Jaguars,23,Green Bay Packers,27
+1,Baltimore Ravens,13,Buffalo Bills,7
+1,New York Jets,22,Cincinnati Bengals,23
+1,Philadelphia Eagles,29,Cleveland Browns,10
+1,Tennessee Titans,16,Minnesota Vikings,25
+1,Kansas City Chiefs,33,San Diego Chargers,27
+1,Atlanta Falcons,24,Tampa Bay Buccaneers,31
+1,New Orleans Saints,34,Oakland Raiders,35
+1,Houston Texans,23,Chicago Bears,14
+1,Seattle Seahawks,12,Miami Dolphins,10
+1,Dallas Cowboys,19,New York Giants,20
+1,Indianapolis Colts,35,Detroit Lions,39
+1,Arizona Cardinals,21,New England Patriots,23
+1,Washington Redskins,16,Pittsburgh Steelers,38
+1,San Francisco 49ers,28,Los Angeles Rams,0
+2,Buffalo Bills,31,New York Jets,37
+2,New England Patriots,31,Miami Dolphins,24
+2,Detroit Lions,15,Tennessee Titans,16
+2,Pittsburgh Steelers,24,Cincinnati Bengals,16
+2,Houston Texans,19,Kansas City Chiefs,12
+2,Cleveland Browns,20,Baltimore Ravens,25
+2,Carolina Panthers,46,San Francisco 49ers,27
+2,Washington Redskins,23,Dallas Cowboys,27
+2,New York Giants,16,New Orleans Saints,13
+2,Arizona Cardinals,40,Tampa Bay Buccaneers,7
+2,Los Angeles Rams,9,Seattle Seahawks,3
+2,Oakland Raiders,28,Atlanta Falcons,35
+2,Denver Broncos,34,Indianapolis Colts,20
+2,San Diego Chargers,38,Jacksonville Jaguars,14
+2,Minnesota Vikings,17,Green Bay Packers,14
+2,Chicago Bears,14,Philadelphia Eagles,29
+3,New England Patriots,27,Houston Texans,0
+3,Miami Dolphins,30,Cleveland Browns,24
+3,Buffalo Bills,33,Arizona Cardinals,18
+3,Jacksonville Jaguars,17,Baltimore Ravens,19
+3,Carolina Panthers,10,Minnesota Vikings,22
+3,Tennessee Titans,10,Oakland Raiders,17
+3,New York Giants,27,Washington Redskins,29
+3,Green Bay Packers,34,Detroit Lions,27
+3,Cincinnati Bengals,17,Denver Broncos,29
+3,Tampa Bay Buccaneers,32,Los Angeles Rams,37
+3,Seattle Seahawks,37,San Francisco 49ers,18
+3,Philadelphia Eagles,34,Pittsburgh Steelers,3
+3,Indianapolis Colts,26,San Diego Chargers,22
+3,Kansas City Chiefs,24,New York Jets,3
+3,Dallas Cowboys,31,Chicago Bears,17
+3,New Orleans Saints,32,Atlanta Falcons,45
+4,Cincinnati Bengals,22,Miami Dolphins,7
+4,Jacksonville Jaguars,30,Indianapolis Colts,27
+4,Chicago Bears,17,Detroit Lions,14
+4,New England Patriots,0,Buffalo Bills,16
+4,Baltimore Ravens,27,Oakland Raiders,28
+4,Houston Texans,27,Tennessee Titans,20
+4,New York Jets,17,Seattle Seahawks,27
+4,Atlanta Falcons,48,Carolina Panthers,33
+4,Washington Redskins,31,Cleveland Browns,20
+4,Arizona Cardinals,13,Los Angeles Rams,17
+4,Tampa Bay Buccaneers,7,Denver Broncos,27
+4,San Diego Chargers,34,New Orleans Saints,35
+4,San Francisco 49ers,17,Dallas Cowboys,24
+4,Pittsburgh Steelers,43,Kansas City Chiefs,14
+4,Minnesota Vikings,24,New York Giants,10
+5,San Francisco 49ers,21,Arizona Cardinals,33
+5,Pittsburgh Steelers,31,New York Jets,13
+5,Cleveland Browns,13,New England Patriots,33
+5,Indianapolis Colts,29,Chicago Bears,23
+5,Miami Dolphins,17,Tennessee Titans,30
+5,Detroit Lions,24,Philadelphia Eagles,23
+5,Baltimore Ravens,10,Washington Redskins,16
+5,Minnesota Vikings,31,Houston Texans,13
+5,Denver Broncos,16,Atlanta Falcons,23
+5,Los Angeles Rams,19,Buffalo Bills,30
+5,Dallas Cowboys,28,Cincinnati Bengals,14
+5,Oakland Raiders,34,San Diego Chargers,31
+5,Green Bay Packers,23,New York Giants,16
+5,Carolina Panthers,14,Tampa Bay Buccaneers,17
+6,San Diego Chargers,21,Denver Broncos,13
+6,Chicago Bears,16,Jacksonville Jaguars,17
+6,Tennessee Titans,28,Cleveland Browns,26
+6,Miami Dolphins,30,Pittsburgh Steelers,15
+6,New England Patriots,35,Cincinnati Bengals,17
+6,Detroit Lions,31,Los Angeles Rams,28
+6,Buffalo Bills,45,San Francisco 49ers,16
+6,New York Giants,27,Baltimore Ravens,23
+6,Washington Redskins,27,Philadelphia Eagles,20
+6,New Orleans Saints,41,Carolina Panthers,38
+6,Oakland Raiders,10,Kansas City Chiefs,26
+6,Green Bay Packers,16,Dallas Cowboys,30
+6,Seattle Seahawks,26,Atlanta Falcons,24
+6,Houston Texans,26,Indianapolis Colts,23
+6,Arizona Cardinals,28,New York Jets,3

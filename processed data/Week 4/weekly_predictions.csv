@@ -1,0 +1,16 @@
+,week,home,away,home_prob,home_spread,home_elo,away_prob,away_spread,away_elo
+0,4,Cincinnati Bengals,Miami Dolphins,0.750163481829,-7.5,1567.0,0.249836518171,7.5,1441.0
+1,4,Jacksonville Jaguars,Indianapolis Colts,0.395087097992,3.0,1334.0,0.604912902008,-3.0,1473.0
+2,4,New England Patriots,Buffalo Bills,0.78307744341,-9.0,1691.0,0.21692255659,9.0,1533.0
+3,4,Houston Texans,Tennessee Titans,0.839175317853,-11.5,1535.0,0.160824682147,11.5,1313.0
+4,4,Chicago Bears,Detroit Lions,0.422907524175,2.0,1381.0,0.577092475825,-2.0,1500.0
+5,4,New York Jets,Seattle Seahawks,0.408924403685,2.5,1518.0,0.591075596315,-2.5,1647.0
+6,4,Baltimore Ravens,Oakland Raiders,0.685059608993,-5.5,1520.0,0.314940391007,5.5,1450.0
+7,4,Atlanta Falcons,Carolina Panthers,0.397841906825,3.0,1503.0,0.602158093175,-3.0,1640.0
+8,4,Washington Redskins,Cleveland Browns,0.756580594295,-8.0,1473.0,0.243419405705,8.0,1341.0
+9,4,Tampa Bay Buccaneers,Denver Broncos,0.196181480575,10.0,1400.0,0.803818519425,-10.0,1710.0
+10,4,Arizona Cardinals,Los Angeles Rams,0.723387869439,-6.5,1598.0,0.276612130561,6.5,1496.0
+11,4,San Diego Chargers,New Orleans Saints,0.625351393308,-3.5,1440.0,0.374648606692,3.5,1416.0
+12,4,San Francisco 49ers,Dallas Cowboys,0.541637702715,-1.0,1445.0,0.458362297285,1.0,1481.0
+13,4,Pittsburgh Steelers,Kansas City Chiefs,0.551623547311,-1.5,1609.0,0.448376452689,1.5,1638.0
+14,4,Minnesota Vikings,New York Giants,0.793640743188,-9.5,1641.0,0.206359256812,9.5,1472.0

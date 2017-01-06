@@ -1,0 +1,241 @@
+week,home,away
+2,New York Jets,Buffalo Bills
+2,San Diego Chargers,Jacksonville Jaguars
+2,New York Giants,New Orleans Saints
+2,Oakland Raiders,Atlanta Falcons
+2,Washington Redskins,Dallas Cowboys
+2,New England Patriots,Miami Dolphins
+2,Pittsburgh Steelers,Cincinnati Bengals
+2,Minnesota Vikings,Green Bay Packers
+2,Denver Broncos,Indianapolis Colts
+2,San Francisco 49ers,Carolina Panthers
+2,Tampa Bay Buccaneers,Arizona Cardinals
+2,Kansas City Chiefs,Houston Texans
+2,Seattle Seahawks,Los Angeles Rams
+2,Baltimore Ravens,Cleveland Browns
+2,Tennessee Titans,Detroit Lions
+2,Philadelphia Eagles,Chicago Bears
+3,New England Patriots,Houston Texans
+3,Denver Broncos,Cincinnati Bengals
+3,Miami Dolphins,Cleveland Browns
+3,Dallas Cowboys,Chicago Bears
+3,Tampa Bay Buccaneers,Los Angeles Rams
+3,Green Bay Packers,Detroit Lions
+3,San Francisco 49ers,Seattle Seahawks
+3,New York Jets,Kansas City Chiefs
+3,Arizona Cardinals,Buffalo Bills
+3,San Diego Chargers,Indianapolis Colts
+3,Washington Redskins,New York Giants
+3,Pittsburgh Steelers,Philadelphia Eagles
+3,Oakland Raiders,Tennessee Titans
+3,Minnesota Vikings,Carolina Panthers
+3,Baltimore Ravens,Jacksonville Jaguars
+3,New Orleans Saints,Atlanta Falcons
+4,Miami Dolphins,Cincinnati Bengals
+4,Pittsburgh Steelers,Kansas City Chiefs
+4,San Diego Chargers,New Orleans Saints
+4,New England Patriots,Buffalo Bills
+4,Baltimore Ravens,Oakland Raiders
+4,Washington Redskins,Cleveland Browns
+4,San Francisco 49ers,Dallas Cowboys
+4,Carolina Panthers,Atlanta Falcons
+4,Tampa Bay Buccaneers,Denver Broncos
+4,Los Angeles Rams,Arizona Cardinals
+4,Seattle Seahawks,New York Jets
+4,Detroit Lions,Chicago Bears
+4,Tennessee Titans,Houston Texans
+4,Jacksonville Jaguars,Indianapolis Colts
+4,New York Giants,Minnesota Vikings
+5,San Francisco 49ers,Arizona Cardinals
+5,New York Giants,Green Bay Packers
+5,Tennessee Titans,Miami Dolphins
+5,Los Angeles Rams,Buffalo Bills
+5,Minnesota Vikings,Houston Texans
+5,Philadelphia Eagles,Detroit Lions
+5,Indianapolis Colts,Chicago Bears
+5,Denver Broncos,Atlanta Falcons
+5,Pittsburgh Steelers,New York Jets
+5,Dallas Cowboys,Cincinnati Bengals
+5,New England Patriots,Cleveland Browns
+5,Washington Redskins,Baltimore Ravens
+5,San Diego Chargers,Oakland Raiders
+5,Tampa Bay Buccaneers,Carolina Panthers
+6,San Diego Chargers,Denver Broncos
+6,Oakland Raiders,Kansas City Chiefs
+6,Washington Redskins,Philadelphia Eagles
+6,Green Bay Packers,Dallas Cowboys
+6,Houston Texans,Indianapolis Colts
+6,Tennessee Titans,Cleveland Browns
+6,Seattle Seahawks,Atlanta Falcons
+6,New Orleans Saints,Carolina Panthers
+6,New England Patriots,Cincinnati Bengals
+6,Los Angeles Rams,Detroit Lions
+6,San Francisco 49ers,Buffalo Bills
+6,Baltimore Ravens,New York Giants
+6,Pittsburgh Steelers,Miami Dolphins
+6,Jacksonville Jaguars,Chicago Bears
+6,New York Jets,Arizona Cardinals
+7,Green Bay Packers,Chicago Bears
+7,New Orleans Saints,Kansas City Chiefs
+7,Oakland Raiders,Jacksonville Jaguars
+7,Philadelphia Eagles,Minnesota Vikings
+7,Tennessee Titans,Indianapolis Colts
+7,Los Angeles Rams,New York Giants
+7,Miami Dolphins,Buffalo Bills
+7,Pittsburgh Steelers,New England Patriots
+7,Washington Redskins,Detroit Lions
+7,Tampa Bay Buccaneers,San Francisco 49ers
+7,Seattle Seahawks,Arizona Cardinals
+7,Cleveland Browns,Cincinnati Bengals
+7,San Diego Chargers,Atlanta Falcons
+7,Baltimore Ravens,New York Jets
+7,Houston Texans,Denver Broncos
+8,Tennessee Titans,Jacksonville Jaguars
+8,Arizona Cardinals,Carolina Panthers
+8,Philadelphia Eagles,Dallas Cowboys
+8,Seattle Seahawks,New Orleans Saints
+8,Washington Redskins,Cincinnati Bengals
+8,Tampa Bay Buccaneers,Oakland Raiders
+8,Houston Texans,Detroit Lions
+8,New England Patriots,Buffalo Bills
+8,San Diego Chargers,Denver Broncos
+8,Kansas City Chiefs,Indianapolis Colts
+8,New York Jets,Cleveland Browns
+8,Green Bay Packers,Atlanta Falcons
+8,Minnesota Vikings,Chicago Bears
+9,Tampa Bay Buccaneers,Atlanta Falcons
+9,San Francisco 49ers,New Orleans Saints
+9,Kansas City Chiefs,Jacksonville Jaguars
+9,Los Angeles Rams,Carolina Panthers
+9,Baltimore Ravens,Pittsburgh Steelers
+9,Philadelphia Eagles,New York Giants
+9,New York Jets,Miami Dolphins
+9,Minnesota Vikings,Detroit Lions
+9,Dallas Cowboys,Cleveland Browns
+9,Green Bay Packers,Indianapolis Colts
+9,San Diego Chargers,Tennessee Titans
+9,Oakland Raiders,Denver Broncos
+9,Seattle Seahawks,Buffalo Bills
+10,Baltimore Ravens,Cleveland Browns
+10,Pittsburgh Steelers,Dallas Cowboys
+10,Tennessee Titans,Green Bay Packers
+10,Jacksonville Jaguars,Houston Texans
+10,Washington Redskins,Minnesota Vikings
+10,San Diego Chargers,Miami Dolphins
+10,Tampa Bay Buccaneers,Chicago Bears
+10,San Francisco 49ers,Arizona Cardinals
+10,Seattle Seahawks,New England Patriots
+10,Kansas City Chiefs,Carolina Panthers
+10,Los Angeles Rams,New York Jets
+10,New Orleans Saints,Denver Broncos
+10,Philadelphia Eagles,Atlanta Falcons
+10,New York Giants,Cincinnati Bengals
+11,New Orleans Saints,Carolina Panthers
+11,Cincinnati Bengals,Buffalo Bills
+11,San Francisco 49ers,New England Patriots
+11,Los Angeles Rams,Miami Dolphins
+11,Minnesota Vikings,Arizona Cardinals
+11,Seattle Seahawks,Philadelphia Eagles
+11,New York Giants,Chicago Bears
+11,Washington Redskins,Green Bay Packers
+11,Tennessee Titans,Indianapolis Colts
+11,Tampa Bay Buccaneers,Kansas City Chiefs
+11,Jacksonville Jaguars,Detroit Lions
+11,Baltimore Ravens,Dallas Cowboys
+11,Pittsburgh Steelers,Cleveland Browns
+11,Oakland Raiders,Houston Texans
+12,Washington Redskins,Dallas Cowboys
+12,Minnesota Vikings,Detroit Lions
+12,Pittsburgh Steelers,Indianapolis Colts
+12,Oakland Raiders,Carolina Panthers
+12,New York Jets,New England Patriots
+12,Tampa Bay Buccaneers,Seattle Seahawks
+12,Baltimore Ravens,Cincinnati Bengals
+12,Kansas City Chiefs,Denver Broncos
+12,Tennessee Titans,Chicago Bears
+12,San Francisco 49ers,Miami Dolphins
+12,Arizona Cardinals,Atlanta Falcons
+12,Los Angeles Rams,New Orleans Saints
+12,Jacksonville Jaguars,Buffalo Bills
+12,San Diego Chargers,Houston Texans
+12,New York Giants,Cleveland Browns
+12,Philadelphia Eagles,Green Bay Packers
+13,Minnesota Vikings,Dallas Cowboys
+13,San Francisco 49ers,Chicago Bears
+13,Baltimore Ravens,Miami Dolphins
+13,Jacksonville Jaguars,Denver Broncos
+13,New Orleans Saints,Detroit Lions
+13,Pittsburgh Steelers,New York Giants
+13,Seattle Seahawks,Carolina Panthers
+13,Oakland Raiders,Buffalo Bills
+13,Houston Texans,Green Bay Packers
+13,Philadelphia Eagles,Cincinnati Bengals
+13,Kansas City Chiefs,Atlanta Falcons
+13,Tampa Bay Buccaneers,San Diego Chargers
+13,Washington Redskins,Arizona Cardinals
+13,Los Angeles Rams,New England Patriots
+13,New York Jets,Indianapolis Colts
+14,Oakland Raiders,Kansas City Chiefs
+14,Tampa Bay Buccaneers,New Orleans Saints
+14,Detroit Lions,Chicago Bears
+14,Tennessee Titans,Denver Broncos
+14,New York Giants,Dallas Cowboys
+14,Cleveland Browns,Cincinnati Bengals
+14,Los Angeles Rams,Atlanta Falcons
+14,Miami Dolphins,Arizona Cardinals
+14,San Francisco 49ers,New York Jets
+14,Houston Texans,Indianapolis Colts
+14,Washington Redskins,Philadelphia Eagles
+14,San Diego Chargers,Carolina Panthers
+14,Seattle Seahawks,Green Bay Packers
+14,Minnesota Vikings,Jacksonville Jaguars
+14,Pittsburgh Steelers,Buffalo Bills
+14,Baltimore Ravens,New England Patriots
+15,Seattle Seahawks,Los Angeles Rams
+15,New York Jets,Miami Dolphins
+15,Minnesota Vikings,Indianapolis Colts
+15,New York Giants,Detroit Lions
+15,Baltimore Ravens,Philadelphia Eagles
+15,San Diego Chargers,Oakland Raiders
+15,Tennessee Titans,Kansas City Chiefs
+15,New Orleans Saints,Arizona Cardinals
+15,Jacksonville Jaguars,Houston Texans
+15,Pittsburgh Steelers,Cincinnati Bengals
+15,Cleveland Browns,Buffalo Bills
+15,San Francisco 49ers,Atlanta Falcons
+15,Green Bay Packers,Chicago Bears
+15,New England Patriots,Denver Broncos
+15,Tampa Bay Buccaneers,Dallas Cowboys
+15,Washington Redskins,Carolina Panthers
+16,Philadelphia Eagles,New York Giants
+16,San Francisco 49ers,Los Angeles Rams
+16,New York Jets,New England Patriots
+16,Oakland Raiders,Indianapolis Colts
+16,Houston Texans,Cincinnati Bengals
+16,Carolina Panthers,Atlanta Falcons
+16,Minnesota Vikings,Green Bay Packers
+16,Tennessee Titans,Jacksonville Jaguars
+16,Miami Dolphins,Buffalo Bills
+16,Tampa Bay Buccaneers,New Orleans Saints
+16,San Diego Chargers,Cleveland Browns
+16,Washington Redskins,Chicago Bears
+16,Seattle Seahawks,Arizona Cardinals
+16,Kansas City Chiefs,Denver Broncos
+16,Baltimore Ravens,Pittsburgh Steelers
+16,Detroit Lions,Dallas Cowboys
+17,Los Angeles Rams,Arizona Cardinals
+17,San Diego Chargers,Kansas City Chiefs
+17,Philadelphia Eagles,Dallas Cowboys
+17,Washington Redskins,New York Giants
+17,Tennessee Titans,Houston Texans
+17,New York Jets,Buffalo Bills
+17,Minnesota Vikings,Chicago Bears
+17,Pittsburgh Steelers,Cleveland Browns
+17,San Francisco 49ers,Seattle Seahawks
+17,Green Bay Packers,Detroit Lions
+17,New Orleans Saints,Atlanta Falcons
+17,New England Patriots,Miami Dolphins
+17,Oakland Raiders,Denver Broncos
+17,Jacksonville Jaguars,Indianapolis Colts
+17,Baltimore Ravens,Cincinnati Bengals
+17,Tampa Bay Buccaneers,Carolina Panthers
