@@ -29,7 +29,6 @@ if __name__ == '__main__':
 	Week = sys.argv[1]
 
 	# Path and file name for raw schedule and results data
-	#f = 'Week ' + str(Week)+ '/years_2016_games_games.csv'
 	week_dir = 'Week ' + str(Week)
 
 	# Open raw schedule and results data
