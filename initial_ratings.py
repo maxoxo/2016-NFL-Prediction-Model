@@ -224,7 +224,7 @@ def write_2016_init_ratings():
 if __name__ == "__main__":
     
     # Read the processed game data file into Python.
-    results_df = pd.read_csv(os.path.join(settings.DATA_DIR, 'all_game_results.csv'))
+    results_df = pd.read_csv(os.path.join(settings.PROCESSED_DATA_DIR, 'all_game_results.csv'))
 
     # Save the names of all 32 NFL teams to an array.
     teams = results_df.home.unique()
