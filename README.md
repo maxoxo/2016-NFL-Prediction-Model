@@ -12,7 +12,7 @@ Install the required packages by running `pip install -r requirements.txt` from 
 * This project uses Python 2.7 and the following libraries: `pandas` and `numpy`.
 
 ### Usage
-1. Run `python generate_historical_results_data.py` to create a single processed data file containing results from all NFL games--regular season and playoffs--since the 2000 season. This script will output a csv file called `all_game_results.csv` in the `processed data` directory. Note that this script only needs to be run once; there is no need to re-run it when updating the forecast at the beginning of each week.
+1. Run `python process_historical_results_data.py` to create a single processed data file containing results from all NFL games--regular season and playoffs--since the 2000 season. This script will output a csv file called `all_game_results.csv` in the `processed data` directory. Note that this script only needs to be run once; there is no need to re-run it when updating the forecast at the beginning of each week.
 
 2. Run `python initial_ratings.py` to generate initial Elo ratings for 2016 NFL season for all 32 teams. This script will output two csv files in the `processed data` directory: `initial_ratings_2016.csv` and `historical_ratings.csv`. Like the script form step 1, this script only needs to be run once and there is no need to re-run it when updating the forecast at the beginning of each week. 
 
